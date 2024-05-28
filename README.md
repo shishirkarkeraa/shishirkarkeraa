@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @shishirkarkeraa
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning NodeJS
-- 📫 Reach Me on Instagram : @shishirkarkeraa
+- 📫 Reach Me on Instagram : @shishir.karkeraa
