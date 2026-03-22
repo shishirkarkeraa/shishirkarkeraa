@@ -1,18 +1,80 @@
-# Welcome to My GitHub Profile! 👋
+# Hey, I'm Shishir 👋
 
-## About Me
-I'm a passionate coder and content creator. I love bringing ideas to life through coding and have completed several projects for clients. Currently, I'm diving into the T3 stack while continually learning new programming languages.
+🚀 Full Stack Developer | Backend Engineer | DevOps Enthusiast
+🔐 Exploring Cybersecurity & Secure Systems
 
-## Skills
-- **Languages**: HTML, CSS, PHP, C, C++, Python, JavaScript, TypeScript
-- **Frameworks**: Next.js, Tailwind CSS, Prisma, tRPC
-- **Tools**: GitHub ,Adobe Photoshop, Adobe Premier Pro, Adobe After Effects, Blender
+---
 
-## Projects
-- **Accounting & Management Website**: Deployed a basic but feature-rich website for accounting and management of an organization using HTML, CSS, PHP, and JavaScript. [Link to project]
+## 🧠 About Me
 
-## Get In Touch
-Feel free to connect with me:
-- [Instagram](https://instagram.com/shishir.karkeraa)
+I build **scalable full-stack applications** with a strong focus on backend systems, performance, and real-world usability.
+---
 
-Let's build something amazing together!
+## ⚙️ Tech Stack
+
+### 💻 Languages
+
+JavaScript • TypeScript • PHP • C • C++ • Python
+
+### 🧩 Frameworks & Libraries
+
+Next.js • React • Tailwind CSS • tRPC • Prisma ORM
+
+### 🗄️ Backend & Database
+
+Node.js • PostgreSQL • MySQL
+
+### ⚡ DevOps & Tools
+
+Git • CI/CD • Deployment • Docker
+
+---
+
+## 🚀 Featured Projects
+
+### 📸 Capture — Image Sharing Platform
+
+* Scalable image sharing system with structured access control
+* Built using **Next.js + tRPC + Prisma + PostgreSQL**
+
+---
+
+### 🔐 KeyWithMe — Secure Credential Sharing
+
+* Encrypted credential sharing system with controlled access
+* Implemented **authentication & session management using NextAuth**
+
+---
+
+### 🏛 Hall Booking System
+
+* Real-world booking platform with multilingual (Kannada) support
+* Designed scheduling logic and user authentication workflows
+
+---
+
+### ⚡ Incridea '26 — Event Management System
+
+* Built full backend system for fest operations
+* Handled **8000+ registrations & ₹40L+ payments**
+* Managed **deployment & infrastructure for live production system**
+
+---
+
+## 🧠 What I'm Currently Learning
+
+* 🔐 Cybersecurity & Ethical Hacking
+* 🏗 System Design & Scalable Architectures
+* ⚡ Advanced DevOps & Cloud Deployment
+
+---
+
+## 📫 Connect With Me
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/shishir-girish-karkera-a61542262/)
+* 💻 [GitHub](https://github.com/shishirkarkeraa)
+* 📸 [Instagram](https://instagram.com/shishir.karkeraa)
+
+---
+
+⭐️ *Always open to collaborating on interesting projects and ideas!*
