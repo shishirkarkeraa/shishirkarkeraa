@@ -6,7 +6,7 @@
 
 Building reliable systems, deploying them to production, and keeping them running.
 
-[GitHub](https://github.com/shishirkarkeraa) · [LinkedIn](https://www.linkedin.com/in/shishir-girish-karkera-a61542262/) · [Instagram](https://instagram.com/shishir.karkeraa)
+[GitHub](https://github.com/shishirkarkeraa) · [LinkedIn](https://www.linkedin.com/in/shishirkarkera/) · [Instagram](https://instagram.com/shishir.karkeraa)
 
 </div>
 
@@ -37,7 +37,7 @@ A production event-management platform for registrations, payments, events, docu
 
 **Features / Work**
 
-- Built backend workflows for registrations, payments, events, and passes
+- Solely built backend workflows for registrations, payments, events, and passes
 - Designed PostgreSQL schemas using Prisma ORM
 - Optimized database queries for high-traffic periods
 - Deployed and maintained the production platform
@@ -48,7 +48,7 @@ A production event-management platform for registrations, payments, events, docu
 **Impact**
 
 - 600+ concurrent users
-- 8,000+ registrations
+- 8,000+ users
 - INR 40 lakh+ in payments processed
 
 ---
@@ -66,19 +66,20 @@ A secure credential-sharing application with encrypted storage and controlled ac
 
 ---
 
-### HackFest 2025 — Central Dashboard
+### HackFest 2025 — Central Dashboard and Analytics
 
 A central operations dashboard developed and deployed for a 24-hour hackathon.
 
 **Features / Work**
 
 - Built the dashboard independently from development to deployment
+- Detailed analytics modules built from scratch for the entire application
 - Managed maintenance and production support during the event
 - Created with Next.js, TypeScript, tRPC, and Prisma ORM
 
 ---
 
-### Aggregates ERP
+### Freelance - ERP 
 
 An ERP platform for a construction-aggregates producer, designed to replace manual Excel-based workflows.
 
@@ -86,11 +87,11 @@ An ERP platform for a construction-aggregates producer, designed to replace manu
 
 - Digitised operational records and calculations
 - Designed automated business workflows
-- Reduced dependence on manual spreadsheet processes
+- Eliminated dependence on manual spreadsheet processes
 
 ---
 
-### Temple Organisation Management System
+### Temple Organisation - Management System
 
 A management platform for venue bookings, receipts, memberships, and daily organisational operations.
 
