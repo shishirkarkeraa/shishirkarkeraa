@@ -1,80 +1,110 @@
-# Hey, I'm Shishir 👋
+<div align="center">
 
-🚀 Full Stack Developer | Backend Engineer | DevOps Enthusiast
-🔐 Exploring Cybersecurity & Secure Systems
+# Shishir Karkera
 
----
+**Backend Developer · DevOps · Application Support**
 
-## 🧠 About Me
+Building reliable systems, deploying them to production, and keeping them running.
 
-I build **scalable full-stack applications** with a strong focus on backend systems, performance, and real-world usability.
----
+[GitHub](https://github.com/shishirkarkeraa) · [LinkedIn](https://www.linkedin.com/in/shishir-girish-karkera-a61542262/) · [Instagram](https://instagram.com/shishir.karkeraa)
 
-## ⚙️ Tech Stack
-
-### 💻 Languages
-
-JavaScript • TypeScript • PHP • C • C++ • Python
-
-### 🧩 Frameworks & Libraries
-
-Next.js • React • Tailwind CSS • tRPC • Prisma ORM
-
-### 🗄️ Backend & Database
-
-Node.js • PostgreSQL • MySQL
-
-### ⚡ DevOps & Tools
-
-Git • CI/CD • Deployment • Docker
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## About Me
 
-### 📸 Capture — Image Sharing Platform
+Computer science student with an interest in backend engineering, DevOps, application reliability, and secure systems.
 
-* Scalable image sharing system with structured access control
-* Built using **Next.js + tRPC + Prisma + PostgreSQL**
+Currently working as a DevOps and Machine Learning Intern at **Sapiencia AI**, while leading the technical team for **Incridea '26**.
 
----
+## Tech Stack
 
-### 🔐 KeyWithMe — Secure Credential Sharing
+```text
+Backend       Node.js · TypeScript · Python · PHP · tRPC
+Frontend      Next.js · React
+Database      PostgreSQL · MySQL · Prisma ORM
+DevOps        Linux · Docker · GitHub Actions · CI/CD · Gradle
+Operations    Monitoring · Incident triage · Root-cause analysis
+Security      Access control · Application security fundamentals
+```
 
-* Encrypted credential sharing system with controlled access
-* Implemented **authentication & session management using NextAuth**
+## Projects
 
----
+### Incridea '26 — Event Management Platform
 
-### 🏛 Hall Booking System
+A production event-management platform for registrations, payments, events, documentation, and concert-pass scanning.
 
-* Real-world booking platform with multilingual (Kannada) support
-* Designed scheduling logic and user authentication workflows
+**Features / Work**
 
----
+- Built backend workflows for registrations, payments, events, and passes
+- Designed PostgreSQL schemas using Prisma ORM
+- Optimized database queries for high-traffic periods
+- Deployed and maintained the production platform
+- Implemented monitoring, release processes, rollback plans, and runbooks
+- Handled production incident triage and root-cause analysis
+- Led a technical team of 20 developers
 
-### ⚡ Incridea '26 — Event Management System
+**Impact**
 
-* Built full backend system for fest operations
-* Handled **8000+ registrations & ₹40L+ payments**
-* Managed **deployment & infrastructure for live production system**
-
----
-
-## 🧠 What I'm Currently Learning
-
-* 🔐 Cybersecurity & Ethical Hacking
-* 🏗 System Design & Scalable Architectures
-* ⚡ Advanced DevOps & Cloud Deployment
-
----
-
-## 📫 Connect With Me
-
-* 💼 [LinkedIn](https://www.linkedin.com/in/shishir-girish-karkera-a61542262/)
-* 💻 [GitHub](https://github.com/shishirkarkeraa)
-* 📸 [Instagram](https://instagram.com/shishir.karkeraa)
+- 600+ concurrent users
+- 8,000+ registrations
+- INR 40 lakh+ in payments processed
 
 ---
 
-⭐️ *Always open to collaborating on interesting projects and ideas!*
+### KeyWithMe — Secure Credential Sharing
+
+A secure credential-sharing application with encrypted storage and controlled access.
+
+**Features / Work**
+
+- Encrypted credential storage
+- Authentication and session management with NextAuth
+- Access-control workflows for shared credentials
+- Built with Next.js, TypeScript, and Prisma ORM
+
+---
+
+### HackFest 2025 — Central Dashboard
+
+A central operations dashboard developed and deployed for a 24-hour hackathon.
+
+**Features / Work**
+
+- Built the dashboard independently from development to deployment
+- Managed maintenance and production support during the event
+- Created with Next.js, TypeScript, tRPC, and Prisma ORM
+
+---
+
+### Aggregates ERP
+
+An ERP platform for a construction-aggregates producer, designed to replace manual Excel-based workflows.
+
+**Features / Work**
+
+- Digitised operational records and calculations
+- Designed automated business workflows
+- Reduced dependence on manual spreadsheet processes
+
+---
+
+### Temple Organisation Management System
+
+A management platform for venue bookings, receipts, memberships, and daily organisational operations.
+
+**Features / Work**
+
+- Venue booking management
+- Receipt and membership workflows
+- Database administration and ongoing application support
+
+## Currently Exploring
+
+- Production DevOps and cloud deployment
+- System design and scalable architectures
+- Application security and penetration-testing fundamentals
+- Machine-learning workflows and synthetic data generation
+
+> Build carefully. Deploy confidently. Learn from production.
