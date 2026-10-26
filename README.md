@@ -31,7 +31,7 @@ Security      Access control · Application security fundamentals
 
 ## Projects
 
-### Incridea '26 — Event Management Platform
+### Incridea '26 — End-to-end Management and Operations System
 
 A production event-management platform for registrations, payments, events, documentation, and concert-pass scanning.
 
